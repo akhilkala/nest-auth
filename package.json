@@ -28,7 +28,7 @@
     "@types/mongoose": "^5.11.97",
     "bcrypt": "^5.0.1",
     "cookie-parser": "^1.4.6",
-    "mongoose": "^6.1.6",
+    "mongoose": "^6.4.6",
     "passport-jwt": "^4.0.0",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
